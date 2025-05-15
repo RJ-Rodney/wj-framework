@@ -10,3 +10,6 @@ class WJ:
     root.resizable(False, False)
     root.configure(bg="grey")
     root.mainloop()
+
+    print("WARJORN Initialized")
+    print("WARJORN Version: 0.0.1")
